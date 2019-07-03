@@ -4,6 +4,10 @@ var url = 'https://api.icndb.com/jokes/random';
 var paragraph = document.getElementById('joke');
 var button = document.getElementById('get-joke');
 
+window.onload = function () {
+    getJoke();
+}
+
 button.addEventListener('click', function () {
     getJoke();
 });

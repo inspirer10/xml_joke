@@ -1,25 +1,5 @@
-body {
-  text-align: center;
-  background: #735ddf;
-  font-weight: bold;
-}
+body { text-align: center; background: #735ddf; font-weight: bold; }
 
-button {
-  font-size: 21px;
-  padding: 15px;
-  color: white;
-  background: #121b74;
-  outline: 0;
-  border: 2px solid red;
-  margin: 40px auto 50px;
-  cursor: pointer;
-}
+button { font-size: 21px; padding: 15px; color: white; background: #121b74; outline: 0; border: 2px solid red; margin: 40px auto 50px; cursor: pointer; }
 
-p {
-  font-size: 25px;
-  color: #e42c64;
-  width: 65vw;
-  margin: auto;
-  text-shadow: 1px 1px 3px whitesmoke;
-}
-/*# sourceMappingURL=style.css.map */
+p { font-size: 25px; color: #e42c64; width: 65vw; margin: auto; text-shadow: 1px 1px 3px whitesmoke; }
